@@ -1,0 +1,11 @@
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\GameOfThroneConsole.deps.json
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\GameOfThroneConsole.runtimeconfig.json
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\GameOfThroneConsole.runtimeconfig.dev.json
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\GameOfThroneConsole.dll
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\bin\Debug\netcoreapp2.0\GameOfThroneConsole.pdb
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\GameOfThroneConsole.csprojResolveAssemblyReference.cache
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\GameOfThroneConsole.csproj.CoreCompileInputs.cache
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\GameOfThroneConsole.AssemblyInfoInputs.cache
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\GameOfThroneConsole.AssemblyInfo.cs
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\GameOfThroneConsole.dll
+C:\Users\mabane\Desktop\ServicesWeb\TP1Solution\ConsoleApp1\obj\Debug\netcoreapp2.0\GameOfThroneConsole.pdb
