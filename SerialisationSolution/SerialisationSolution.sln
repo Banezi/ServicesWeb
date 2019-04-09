@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialisationXML", "SerialisationXML\SerialisationXML.csproj", "{0E1BB7FF-2B61-4120-A9F6-9B9E4A337372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptage", "Cryptage\Cryptage.csproj", "{C9271263-A6C9-4EF4-B0C6-B53FC9033311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1BB7FF-2B61-4120-A9F6-9B9E4A337372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1BB7FF-2B61-4120-A9F6-9B9E4A337372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1BB7FF-2B61-4120-A9F6-9B9E4A337372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1BB7FF-2B61-4120-A9F6-9B9E4A337372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9271263-A6C9-4EF4-B0C6-B53FC9033311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9271263-A6C9-4EF4-B0C6-B53FC9033311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9271263-A6C9-4EF4-B0C6-B53FC9033311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9271263-A6C9-4EF4-B0C6-B53FC9033311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB835B5-A3E9-4C9E-BB0E-51A645D91C88}
+	EndGlobalSection
+EndGlobal

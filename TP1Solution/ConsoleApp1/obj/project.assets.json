@@ -200,8 +200,7 @@
       "BusinessLayer/1.0.0": {
         "type": "project",
         "dependencies": {
-          "EntitiesLayer": "1.0.0",
-          "StubDataAccessLayer": "1.0.0"
+          "EntitiesLayer": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BusinessLayer.dll": {}
@@ -217,18 +216,6 @@
         },
         "runtime": {
           "bin/placeholder/EntitiesLayer.dll": {}
-        }
-      },
-      "StubDataAccessLayer/1.0.0": {
-        "type": "project",
-        "dependencies": {
-          "EntitiesLayer": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/StubDataAccessLayer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/StubDataAccessLayer.dll": {}
         }
       }
     }
@@ -700,11 +687,6 @@
       "type": "project",
       "path": "../EntitiesLayer/EntitiesLayer.csproj",
       "msbuildProject": "../EntitiesLayer/EntitiesLayer.csproj"
-    },
-    "StubDataAccessLayer/1.0.0": {
-      "type": "project",
-      "path": "../StubDataAccessLayer/StubDataAccessLayer.csproj",
-      "msbuildProject": "../StubDataAccessLayer/StubDataAccessLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {

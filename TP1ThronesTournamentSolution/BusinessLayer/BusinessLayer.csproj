@@ -44,13 +44,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{097a88c1-af28-429d-b060-12007ef3e77d}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EntitiesLayer\EntitiesLayer.csproj">
       <Project>{37b07f5e-ad98-483f-a988-2f5351170325}</Project>
       <Name>EntitiesLayer</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\StubDataAccessLayer\StubDataAccessLayer.csproj">
-      <Project>{b688f1bc-12d4-41f1-a7d1-d56964d851b1}</Project>
-      <Name>StubDataAccessLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
